@@ -7,21 +7,19 @@
  */
 
 void print_alphabet_x10(void)
+
 {
-
-	int round = 0;
 	char letter = 'a';
+	int nof = 1;
 
-	while (round < 10)
+	while (nof <= 10)
 	{
-		letter = 'a';
-		while (letter <= 'z')
-		{
-			_putchar(letter);
-			letter++;
-		}
-		_putchar('\n');
-
-		round++;
+	while (letter <= 'z')
+	{
+		_putchar(letter);
+		letter++;
+	}
+	_putchar('\n');
+	nof++;
 	}
 }
