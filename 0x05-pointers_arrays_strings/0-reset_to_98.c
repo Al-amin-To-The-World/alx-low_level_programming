@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * rest_to_98 - changes the value of poniter to 98
+ * reset_to_98 - changes the value of poniter to 98
+ * @n: pointer
  * Return: void
  */
 
