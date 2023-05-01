@@ -1,1 +1,1 @@
-this is 0x06 more pointers and arrays
+Added: C - More pointers, arrays and strings
